@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -type f
+ls -t -1 | head -n10
